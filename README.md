@@ -1,4 +1,4 @@
-# High-Dimensional Statistics (HDS) — Sharif University of Technology
+# High-Dimensional Statistics (HDS) — Sharif University of Technology — Spring 2025
 
 **Instructor:** Amir Najafi  
 **Head TA:** Alireza Mirrokni
